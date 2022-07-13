@@ -1,4 +1,0 @@
-hello 
-welcome to git server
-
-connect0611, for your help
